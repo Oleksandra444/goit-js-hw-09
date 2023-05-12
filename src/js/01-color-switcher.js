@@ -1,1 +1,1 @@
-
+const color = 1;
